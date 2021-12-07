@@ -1,0 +1,42 @@
+.jumbotron {
+  padding-top: 2rem;
+  background-color: #000000;
+}
+
+.jumbotron h1 {
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  color: #FFA900;
+}
+
+.jumbotron a {
+  color: whitesmoke;
+}
+
+#about h2 {
+  font-family: 'Times New Roman', sans-serif;
+  color: #000000
+}
+
+#feature {
+  font-family: 'Times New Roman', sans-serif;
+  color: #FFA900;
+  background-color: #000000;
+}
+
+#feature h2 {
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+
+#pricing h2 {
+  font-family: 'Yanone Kaffeesatz' sans-serif;
+  color: #000000;
+}
+
+#pricing a {
+  color: #000000;
+}
+
+#footer {
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  color: #000000;
+}
